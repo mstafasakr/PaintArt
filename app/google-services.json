@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653430458537",
+    "project_id": "paint-art-64751",
+    "storage_bucket": "paint-art-64751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653430458537:android:de01cd3ff6461e28c301b8",
+        "android_client_info": {
+          "package_name": "com.mustafaalsheghri.paintart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653430458537-3fht65vg89s0bv0ias85nnsvvv1ghoff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmcbXjMN6fPjhFp3a-yvYasro3xydPFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653430458537-3fht65vg89s0bv0ias85nnsvvv1ghoff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

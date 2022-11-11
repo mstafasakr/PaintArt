@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Paint Art</string>
+    <string name="share">Shaer App</string>
+    <string name="Drawer_open" translatable="false">open</string>
+    <string name="Drawer_Close" translatable="false">close</string>
+</resources>
