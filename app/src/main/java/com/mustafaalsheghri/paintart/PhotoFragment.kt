@@ -42,8 +42,9 @@ class PhotoFragment : Fragment() {
                     list!!.add(add!!)
                 }
                 rec_photo.apply {
-                    layoutManager = GridLayoutManager(this.context,4)
-                    adapter = PhotoAdapter(this.context, list!!)
+//                    setHasFixedSize(true)
+                    layoutManager = LinearLayoutManager(requireActivity())
+                    adapter = PhotoAdapter(requireActivity(), list!!)
                 }
 
             }

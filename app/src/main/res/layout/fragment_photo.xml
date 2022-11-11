@@ -10,8 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:itemCount="4"
-        tools:layoutManager="GridLayoutManager"
-        tools:listitem="@layout/item_photo"
-        tools:spanCount="5" />
+        tools:listitem="@layout/item_photo" />
 
 </FrameLayout>
